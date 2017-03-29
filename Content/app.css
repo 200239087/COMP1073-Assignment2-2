@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* CSS */
+
+/*Ryan Quigley
+200239087
+Georgian College
+COMP1073-W2017*/
+
+body {
+  padding-bottom: 70px;
+  }
+
+footer > nav > div > p {
+  color: lightgrey;
+  text-align: center;
+  margin-top: 1em;
+}
+
